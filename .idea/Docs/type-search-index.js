@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"edu.iuh.fit.se","l":"Course"},{"p":"edu.iuh.fit.se","l":"CourseList"},{"p":"edu.iuh.fit.se","l":"TestCourse"}];updateSearchResults();
